@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mao720, an Android developer
 - 🌱 I’m currently learning algorithm and React
-- 🕐 [简书](https://www.jianshu.com/u/88dcc26575a1)
-- 🕑 [Blog](https://nextjs-blog-mao720.vercel.app/)
+- 📒 [简书](https://www.jianshu.com/u/88dcc26575a1)
+- 🕑 [Blog](https://mao720.vercel.app/)
 
 - 📫 How to reach me: mao720@foxmail.com
 
