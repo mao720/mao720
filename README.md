@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: mao720@foxmail.com
 
-![](https://github-profile-trophy.vercel.app/?username=mao720)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=mao720) -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mao720&show_icons=true&locale=en" alt="mao720" /></p>
 
